@@ -25,7 +25,7 @@ h1 h2 h3 h4 h5 h6{
     background-color: rgb(99, 173, 242);
 }
 
-.brand {
+/* .brand {
     width: 135px;
     height: auto;
     padding: 5px;
@@ -39,7 +39,7 @@ h1 h2 h3 h4 h5 h6{
     width: 125px;
     height: 125px;
     border-radius: 50%;
-}
+} */
 .botones{
     background-color: rgba(130, 160, 188, 0.493);
     color: white;
@@ -117,11 +117,13 @@ color: rgb(167, 204, 237);
     align-items: center;
 }
 .card-img img{
-    width: 80%;
-    height: 180px;
+    width: 220px;
+    height: 150px;
     border: 3px solid rgba(0, 0, 0, 0.418);
 }
 .card-titulo h5{
+    width: 100%;
+    height:80px;
     font-family: 'Bricolage Grotesque', sans-serif;
 }
 .card-body p{
